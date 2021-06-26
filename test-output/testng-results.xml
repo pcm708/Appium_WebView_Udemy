@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-26T23:50:09 IST" name="Default suite" finished-at="2021-06-26T23:50:44 IST" duration-ms="34975">
+    <groups>
+    </groups>
+    <test started-at="2021-06-26T23:50:09 IST" name="Default test" finished-at="2021-06-26T23:50:44 IST" duration-ms="34975">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@28a0fd6c]" started-at="2021-06-26T23:50:09 IST" name="setup" finished-at="2021-06-26T23:50:21 IST" duration-ms="11662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyApplicationLogoDisplayed()[pri:1, instance:tests.HomePageTest@28a0fd6c]" started-at="2021-06-26T23:50:21 IST" name="verifyApplicationLogoDisplayed" finished-at="2021-06-26T23:50:24 IST" duration-ms="3361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyApplicationLogoDisplayed -->
+        <test-method signature="verifySaleAlertPromptMessageDisplayed()[pri:2, instance:tests.HomePageTest@28a0fd6c]" started-at="2021-06-26T23:50:24 IST" name="verifySaleAlertPromptMessageDisplayed" finished-at="2021-06-26T23:50:26 IST" duration-ms="1889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySaleAlertPromptMessageDisplayed -->
+        <test-method signature="navigateToLoginPage()[pri:3, instance:tests.HomePageTest@28a0fd6c]" started-at="2021-06-26T23:50:26 IST" name="navigateToLoginPage" finished-at="2021-06-26T23:50:43 IST" duration-ms="17002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@28a0fd6c]" started-at="2021-06-26T23:50:43 IST" name="tearDown" finished-at="2021-06-26T23:50:44 IST" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
